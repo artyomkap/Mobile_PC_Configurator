@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">PcConfiguratorAssignment</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="press_to_login">Press to Login</string>
+    <string name="press_to_register">Press to Register</string>
+    <string name="logout">Logout</string>
+    <string name="login_page">Login Page</string>
+    <string name="username">Username</string>
+    <string name="back_button_description">\nback button\n</string>
+    <string name="login_button">Login Button</string>
+    <string name="password_input">Password Input</string>
+    <string name="registration_page">Registration Page</string>
+    <string name="back">Back</string>
+    <string name="welcome_to_pc_configurator_app">Welcome to PC Configurator App</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="configurator">Configurator</string>
+    <string name="catalog">Catalog</string>
+    <string name="graphic_cards">Graphic Cards</string>
+    <string name="products_catalog">Products Catalog</string>
+    <string name="all">All</string>
+    <string name="graphic_card">Graphic Card</string>
+    <string name="ram">RAM</string>
+    <string name="cpu">CPU</string>
+    <string name="mother_board">Mother Board</string>
+    <string name="storage">Storage</string>
+    <string name="title">title</string>
+    <string name="xtrainfo">XtraInfo</string>
+    <string name="add_to_configurator">Add To Configurator</string>
+    <string name="_50">50 $</string>
+    <string name="title2">Title</string>
+    <string name="_2500_mhz">2500 MHz</string>
+    <string name="nvidia_rtx_3080_ti">Nvidia RTX 3080 TI</string>
+    <string name="description">Description</string>
+    <string name="_499">£ 499</string>
+    <string name="choose_configurator">Choose Configurator</string>
+    <string name="automatic">Automatic</string>
+    <string name="manual">Manual</string>
+    <string name="load_configuration">Load Configuration</string>
+    <string name="manual_configurator">Manual Configurator</string>
+    <string name="config_summary">Config Summary</string>
+    <string name="total">Total</string>
+    <string name="_2998">£2998</string>
+    <string name="save_config">Save Config</string>
+    <string name="save_configuration">Save Configuration</string>
+    <string name="reset_configuration">Reset Configuration</string>
+    <string name="configutation_1">Configutation 1</string>
+    <string name="rtx_3080_ti">RTX 3080 TI</string>
+    <string name="hypex_fury_32_gb">HYPEX Fury 32 GB</string>
+    <string name="intel_core_i_5_2313mhz">Intel Core I-5 2313Mhz</string>
+    <string name="samsung_evo_1tb">Samsung EVO 1TB</string>
+    <string name="just_normal_motherboard">Just Normal MotherBoard</string>
+    <string name="your_configuration">Your Configuration</string>
+    <string name="automatic_configurator">Automatic Configurator</string>
+    <string name="your_budget">Your Budget</string>
+    <string name="your_purposes_for_the_pc">Your purposes for the PC</string>
+    <string name="your_budget2">Your Budget:</string>
+    <string name="your_purposes">Your Purposes:</string>
+    <string name="small">Small</string>
+
+
+    <string-array name="array_budget_states">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="array_purpose_states">
+        <item>Gaming</item>
+        <item>Office</item>
+        <item>Art (Video, 3D, Photo)</item>
+    </string-array>
+</resources>

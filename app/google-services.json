@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836718397754",
+    "project_id": "pcconfiguratorassignment-781e2",
+    "storage_bucket": "pcconfiguratorassignment-781e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836718397754:android:631c3d6cb7b568852da803",
+        "android_client_info": {
+          "package_name": "com.example.pcconfiguratorassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836718397754-bh0mn7eh49kh86ks8d0sqvhspqljkja5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1ena684Qbxqbplqrlr3i_c7k5ayCyn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836718397754-bh0mn7eh49kh86ks8d0sqvhspqljkja5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
